@@ -6,8 +6,6 @@ export async function SendEmail() {
   
   console.log("!!!", tkn)
 
-  return
-
   async function Sendmail() {
     try {
       
